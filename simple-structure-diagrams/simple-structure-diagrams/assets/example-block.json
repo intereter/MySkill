@@ -1,0 +1,145 @@
+{
+  "width": 480,
+  "height": 590,
+  "title": "Residual Block",
+  "shapes": [
+    {
+      "type": "box",
+      "x": 70,
+      "y": 80,
+      "w": 340,
+      "h": 430,
+      "r": 18
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          240,
+          550
+        ],
+        [
+          240,
+          450
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          240,
+          400
+        ],
+        [
+          240,
+          350
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          240,
+          295
+        ],
+        [
+          240,
+          245
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          240,
+          190
+        ],
+        [
+          240,
+          150
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          240,
+          485
+        ],
+        [
+          105,
+          485
+        ],
+        [
+          105,
+          140
+        ],
+        [
+          231,
+          140
+        ]
+      ]
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          240,
+          131
+        ],
+        [
+          240,
+          95
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "type": "box",
+      "x": 150,
+      "y": 400,
+      "w": 180,
+      "h": 50,
+      "label": "Norm",
+      "fill": "#f4f4ce"
+    },
+    {
+      "type": "box",
+      "x": 150,
+      "y": 295,
+      "w": 180,
+      "h": 55,
+      "label": "Transform",
+      "fill": "#fff1dc"
+    },
+    {
+      "type": "box",
+      "x": 150,
+      "y": 190,
+      "w": 180,
+      "h": 55,
+      "label": "Linear",
+      "fill": "#d7ebd7"
+    },
+    {
+      "type": "circle",
+      "x": 240,
+      "y": 140,
+      "label": "+"
+    },
+    {
+      "type": "text",
+      "x": 240,
+      "y": 575,
+      "label": "Input",
+      "size": 20
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "简洁模型与代码结构图"
+  short_description: "讲解论文模型或代码结构时，绘制论文插图风格的清晰模块图"
+  default_prompt: "使用 $simple-structure-diagrams 讲解模型或代码结构，并绘制简洁的浅色模块图。"
